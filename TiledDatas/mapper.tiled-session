@@ -1,0 +1,58 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "mainMap.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Tiled map files (*.tmx)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#main": {
+            "scaleInDock": 1
+        },
+        "main.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mainMap.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -76.66666666666666,
+                "y": 20.666666666666686
+            }
+        },
+        "mainMap.tmx#main": {
+            "scaleInDock": 1
+        },
+        "mainMap.tmx#test2": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Projects/TiledProjects",
+    "last.imagePath": "C:/Projects/TiledProjects",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "5",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "mainMap.tmx"
+    ],
+    "project": "mapper.tiled-project",
+    "recentFiles": [
+        "mainMap.tmx",
+        "main.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

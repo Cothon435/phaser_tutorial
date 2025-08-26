@@ -1,0 +1,108 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Projects/PhaserProjects/phaser-zelda-like-tutorial-additional-assets/tiled/dungeon_1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "C:/Projects/PhaserProjects/phaser-zelda-like-tutorial-additional-assets/tiled/dungeon_1.tmx": {
+            "expandedGroupLayers": [
+                18,
+                19,
+                24,
+                20
+            ],
+            "expandedObjectLayers": [
+                18,
+                19,
+                48,
+                20,
+                46,
+                47,
+                7,
+                30
+            ],
+            "scale": 1.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 859.3333333333333,
+                "y": 569
+            }
+        },
+        "C:/Projects/PhaserProjects/phaser-zelda-like-tutorial-additional-assets/tiled/dungeon_1.tmx#Legend_Spider_Dungeon": {
+            "scaleInDock": 1
+        },
+        "C:/Projects/PhaserProjects/phaser-zelda-like-tutorial-additional-assets/tiled/dungeon_1.tmx#collision": {
+            "scaleInDock": 1
+        },
+        "C:/Projects/PhaserProjects/phaser-zelda-like-tutorial-additional-assets/tiled/world.tmx": {
+            "scale": 2.2766601562499997,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 256.296486938618,
+                "y": 128.03843349204308
+            }
+        },
+        "C:/Projects/PhaserProjects/phaser-zelda-like-tutorial-additional-assets/tiled/world.tmx#collision": {
+            "scaleInDock": 1
+        },
+        "C:/Projects/PhaserProjects/phaser-zelda-like-tutorial-additional-assets/tiled/world.tmx#grassland_resized": {
+            "scaleInDock": 1
+        },
+        "mainPage.tmx": {
+            "expandedGroupLayers": [
+                11,
+                10,
+                12
+            ],
+            "expandedObjectLayers": [
+                8
+            ],
+            "scale": 1.5,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 503.3333333333333,
+                "y": 891
+            }
+        },
+        "mainPage.tmx#collision": {
+            "scaleInDock": 1
+        },
+        "mainPage.tmx#legacy_atlas": {
+            "scaleInDock": 3
+        }
+    },
+    "last.imagePath": "C:/Projects/JSgameTest/TiledProject",
+    "map.fixedSize": true,
+    "map.height": 150,
+    "map.lastUsedExportFilter": "Json map files (*.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 150,
+    "openFiles": [
+        "mainPage.tmx",
+        "C:/Projects/PhaserProjects/phaser-zelda-like-tutorial-additional-assets/tiled/dungeon_1.tmx"
+    ],
+    "project": "mainPage.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "C:/Projects/PhaserProjects/phaser-zelda-like-tutorial-additional-assets/tiled/dungeon_1.tmx",
+        "mainPage.tmx",
+        "C:/Projects/PhaserProjects/phaser-zelda-like-tutorial-additional-assets/tiled/world.tmx"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.useTransparentColor": true
+}

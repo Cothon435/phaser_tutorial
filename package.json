@@ -1,0 +1,30 @@
+{
+  "name": "jsgametest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SCIT-47-3/gameTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SCIT-47-3/gameTest/issues"
+  },
+  "homepage": "https://github.com/SCIT-47-3/gameTest#readme",
+  "dependencies": {
+    "phaser": "^3.90.0",
+    "typescript": "^5.9.2"
+  },
+  "devDependencies": {
+    "vite": "^7.1.0"
+  }
+}
